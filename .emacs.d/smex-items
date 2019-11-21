@@ -1,0 +1,20 @@
+
+;; ----- smex-history -----
+(
+ customize-group
+ package-autoremove
+ load-theme
+ describe-font
+ package-list-packages
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (load-theme . 27)
+ (package-list-packages . 1)
+ (describe-font . 4)
+ (package-autoremove . 5)
+ (customize-group . 1)
+)
